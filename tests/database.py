@@ -8,7 +8,7 @@ from app.main import app
 from app.config import settings
 from app.database import get_db
 from app.database import Base
-# from alembic import command
+from alembic import command
 
 
 # SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:password123@localhost:5432/fastapi_test'

@@ -1,7 +1,4 @@
 from pydantic import BaseSettings
-# from pydantic.v1 import BaseSettings
-# 
-# from pydantic_settings import BaseSettings # NEW
 
 
 class Settings(BaseSettings):
