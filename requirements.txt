@@ -5,3 +5,4 @@ pydantic==2.3.0
 pytest==7.4.1
 python_jose==3.3.0
 SQLAlchemy==2.0.20
+httpx==0.24.1
